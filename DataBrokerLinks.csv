@@ -1,9 +1,155 @@
-databroker,search,remove
-Spokeo,https://www.spokeo.com/,https://www.spokeo.com/optout
-BeenVerified,https://www.beenverified.com/app/optout/search,https://www.beenverified.com/app/optout/search
-White Pages,https://www.whitepages.com/,https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing
-Instant Checkmate,https://www.instantcheckmate.com/,https://www.instantcheckmate.com/opt-out/
-Addresses,https://www.addresses.com/,https://www.intelius.com/opt-out/submit/
-Intelius,https://www.intelius.com/,https://www.intelius.com/opt-out/submit/
-Radaris,https://radaris.com/,https://radaris.com/page/how-to-remove
-PrivateEye,https://www.privateeye.com/,https://www.privateeye.com/static/view/optout/
+Name,Website,Data Sensitivity,Category
+Spokeo,https://www.spokeo.com/optout,8,People Search Site
+BeenVerified,https://www.beenverified.com/app/optout/search,8,People Search Site
+White Pages,https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing,8,People Search Site
+Instant Checkmate,https://www.instantcheckmate.com/opt-out/,8,People Search Site
+Addresses,https://www.intelius.com/opt-out/submit/,8,People Search Site
+Intelius,https://www.intelius.com/opt-out/submit/,8,People Search Site
+Radaris,https://radaris.com/page/how-to-remove,8,People Search Site
+PrivateEye,https://www.privateeye.com/static/view/optout/,8,People Search Site
+AccuData,https://www.accudata.com/,3,Marketing
+AdDefend,https://www.addefend.com/en/,3,Marketing
+Addresses,https://www.addresses.com,5,People Search Site
+AdElement,http://adelement.com/,3,Marketing
+Advancedbackgroundchecks,https://www.advancedbackgroundchecks.com,5,People Search Site
+Affinity Answers,http://www.affinityanswers.com,4,Marketing
+Aged Lead Store,https://agedleadstore.com/,9,Marketing
+Aidentified,https://www.aidentified.com/,4,Marketing
+Alesco,https://alescodata.com/,4,Marketing
+America Phone Book,https://americaphonebook.com/,4,People Search Site
+Anchor Computer,http://anchorcomputer.com/,6,Marketing
+Anywho,https://www.anywho.com,10,People Search Site
+Arkeero,https://arkeero.com/,3,Marketing
+Arrestfacts,https://www.arrestfacts.com,7,People Search Site
+ASL marketing,https://aslmarketing.com/,6,Marketing
+Attribits,http://www.attribits.com,4,Marketing
+Belardi Wong (BW),https://belardiwong.com/,4,Marketing
+BidSwitch,https://www.bidswitch.com/,4,Marketing
+Bliss Point Media,https://www.blisspointmedia.com/,6,Marketing
+Bookyourdata,https://www.bookyourdata.com/,3,Marketing
+BRIDGE,https://www.thebridgecorp.com/,4,Marketing
+Carney Direct,https://www.carneydirect.com/,3,Marketing
+Censia,https://www.censia.com/,8,Recruitment
+Checksecrets,https://www.checksecrets.com/,10,People Search Site
+Clustrmaps,https://www.clustrmaps.com,4,People Search Site
+Compact,https://www.compactlists.com/,6,Marketing
+Complete Mailing Lists,https://completemailinglists.com/,3,Marketing
+Complete Medical Lists,http://completemedicallists.com/,3,Marketing
+Comscore,https://www.comscore.com/,4,Marketing
+Connext Digital,https://connextdigital.com/,3,Marketing
+Contacts411,https://contacts411.com/,2,Marketing
+Cybba,https://cybba.com/,4,Marketing
+Cyberbackgroundchecks,https://www.cyberbackgroundchecks.com,5,People Search Site
+Datastream,https://datastreamgroup.com/,8,Marketing
+DecaData,https://decadata.io/,5,Marketing
+Deep Root Analytics,https://www.deeprootanalytics.com/,4,Marketing
+Degree.Me,https://academixdirect.com/,4,Marketing
+DemystData,https://demyst.com/,4,Risk Mitigation
+Dice,https://www.dice.com/,3,Recruitment
+Digital Media Solutions (DMS),https://digitalmediasolutions.com/,4,Marketing
+DonorBase,https://www.dataaxlenonprofit.com/donorbase/,4,Marketing
+Dynata,https://www.dynata.com/,6,Marketing
+Ekata (EU),https://ekata.com/,3,Risk Mitigation
+Ekata (US),https://lightcast.io/,3,Risk Mitigation
+EproDirect,https://www.ermes.ai/,3,Marketing
+Ermes,https://exactag.com/,3,Marketing
+Exactag,http://fetcher.ai/,3,Marketing
+Fetcher,https://fifty.io/,4,Recruitment
+Fifty,https://fifty.io/us,3,Marketing
+Findem,https://www.findem.ai,4,Recruitment
+Findmypast,https://www.findmypast.co.uk/,6,People Search
+Findpeoplesearch,https://www.findpeoplesearch.com,4,People Search Site
+Floridaresidentsdirectory,https://www.floridaresidentsdirectory.com,9,People Search Site
+FourLeafData,https://www.fourleafdata.com/,4,Marketing
+Freepeopledirectory,https://www.freepeopledirectory.com,7,People Search Site
+FullContact,https://www.fullcontact.com/,7,Marketing
+GADSME,https://www.gadsme.com/,6,Marketing
+Giant Partners,https://giantpartners.com/,6,Marketing
+Gunderson Direct,https://gundersondirect.com/,3,Marketing
+HealthWise Data,https://www.healthwisedata.com/,6,Risk Mitigation
+HireEZ,hireez.com,4,Recruitment
+Homemetry,https://homemetry.com/,4,People Search Site
+Homeowners Marketing,https://homeownersmarketingservices.com/,4,Marketing
+ID5,https://id5.io/,4,Marketing
+IDM,https://idm.us.com,6,Marketing
+Idtrue,https://www.idtrue.com,7,People Search Site
+InfoPay,https://www.infopay.com/,3,Risk Mitigation
+Insurance Marketing Hub,http://www.insurancemarketinghub.com,4,Marketing
+Intalytics,https://intalytics.com/,4,Marketing
+IntentMacro,https://intentmacro.com/,6,Marketing
+L2,https://l2-data.com/,4,Risk Mitigation
+LBDigital,https://www.lbdigitaldata.com/,4,Marketing
+Lead Me Media,https://www.leadmemedia.com/,4,Marketing
+LeadPost,https://leadpost.com/,4,Marketing
+Lighthouse,List	https://www.lighthouselist.com/,4,Marketing
+Limeleads,https://www.limeleads.com/,4,Marketing
+ListsOnline,http://listsonline.com/,3,Marketing
+Little Brook Media,https://littlebrookmedia.com/,3,Marketing
+Liveintent,https://www.liveintent.com/,4,Marketing
+LocatePeople,https://www.locatepeople.org/,10,People Search Site
+MaxMind,https://maxmind.com/,3,Marketing
+MediaSoft,http://mediasoftstudio.com/,3,Marketing
+MediaWallah,https://mediawallah.com/,3,Marketing
+Michigan Residents Directory Database,https://www.michiganresidentdatabase.com/,4,People Search Site
+Milestone Marketing Solutions,https://www.milestonemarketingsolutions.com/,8,Marketing
+NC Residents Directory Database,https://www.northcarolinaresidentdatabase.com/,4,People Search Site
+Neighbor.Report,https://neighbor.report/,4,People Search Site
+Ohioresidentdatabase,https://www.ohioresidentdatabase.com,9,People Search Site
+Oneninetwo,https://www.192.com,5,People Search Site
+Onlinesearches,https://www.onlinesearches.com,10,People Search Site
+Optimal Fusion,https://optimalfusion.com/,3,Marketing
+Outward Media,https://outwardmedia.com/,4,Marketing
+PacificEast,https://www.pacificeast.com/,6,Marketing
+People Search,https://www.people-search.org/,4,People Search Site
+People Search Expert,https://peoplesearchexpert.com/,4,People Search Site
+People Search Now,https://www.peoplesearchnow.com/,4,People Search Site
+PeopleByName,https://www.peoplebyname.com/,4,People Search Site
+Peoplefinders,https://www.peoplefinders.com,7,People Search Site
+Persopo,https://persopo.com/,4,People Search Site
+Pipl,https://pipl.com/,4,risk Mitigation
+Pop Acta Media,https://popacta.com/,3,Marketing
+Postie,https://postie.com/,4,Marketing
+Pplscanner,https://www.pplscanner.com,7,People Search Site
+Privaterecords,https://www.privaterecords.net,9,People Search Site
+PrivateReports,https://www.privatereports.com/,10,People Search Site
+Public Record Search,https://freebackgroundcheck.org/,8,People Search Site
+Publicrecordsnow,https://www.publicrecordsnow.com,7,People Search Site
+PushHint,https://pushint.com/,6,Marketing
+Quickpeopletrace,https://www.quickpeopletrace.com,9,People Search Site
+Radaris,https://www.radaris.com,7,People Search Site
+RecruitBot,https://www.recruitbot.com/,6,Recruitment
+Redi-Data,https://www.redidata.com,6,Marketing
+Rehold,https://rehold.com/,4,People Search Site
+Remodeling,https://remodeling.com/,6,Marketing
+RevealName,https://www.revealname.com/,4,People Search Site
+SalesIntel,https://salesintel.io/,6,Marketing
+Salutary Data,https://salutarydata.com/,4,Marketing
+Sawyer Lists,https://www.sawyerdatadirect.com/,3,Marketing
+SearchQuarry,https://searchquarry.com/,10,People Search Site
+Semcasting,https://www.semcasting.com/,8,Marketing
+SentiLink,https://www.sentilink.com/,4,Marketing
+Shopalyst,https://www.shopalyst.com/,3,Marketing
+Site Impact,http://siteimpact.com/,10,Marketing
+Smartbackgroundchecks,https://www.smartbackgroundchecks.com,5,People Search Site
+SMS Inc,https://www.sms-inc.com/,4,Marketing
+StateRecords,https://staterecords.org/,10,People Search Site
+Swordfish,https://swordfish.ai/,4,Recruitment
+Sync.me,https://sync.me/,8,People Search Site
+Telephone Lists,https://www.evs7.com/,4,Marketing
+Telephonedirectories,https://www.telephonedirectories.us,4,People Search Site
+Terminus,https://terminus.com,4,Marketing
+The People,Searchers,https://www.peoplesearcher.com/name/landing,7,People Search
+True Influence,https://anteriad.com/,4,Marketing
+TruthRecord,https://www.truthrecord.org/,10,People Search Site
+United States Phone Book,https://unitedstatesphonebook.com/,3,People Search Site
+UpLead,https://www.uplead.com/,4,Marketing
+US Data Corporation,https://www.usdatacorporation.com/,8,Marketing
+USA People Search,https://usa-people-search.com/,4,People Search Site
+Usatrace,https://www.usatrace.com,5,People Search Site
+USPhoneBook,https://www.usphonebook.com/,4,People Search Site
+VenPath,https://www.venpath.net/,4,Marketing
+Veripages,https://www.veripages.com,7,People Search Site
+Versium,https://versium.com/,4,Marketing
+WeInform,https://www.weinform.org/,10,People Search Site
+Yasni,http://www.yasni.de/,6,People,Search Site
+Zabasearch,https://www.zabasearch.com,10,People Search Sit
